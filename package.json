@@ -24,7 +24,7 @@
 		}
 	},
 	"dependencies": {
-		"hono": "4.11.1",
+		"hono": "4.13.5",
 		"workers-qb": "0.1.1"
 	},
 	"devDependencies": {
@@ -33,7 +33,7 @@
 		"@vitest/runner": "4.1.10",
 		"@vitest/snapshot": "4.1.10",
 		"typescript": "5.9.3",
-		"vitest": "4.1.10",
+		"vitest": "5.0.1",
 		"wrangler": "4.127.0"
 	},
 	"engines": {
